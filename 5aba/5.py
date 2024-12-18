@@ -41,5 +41,5 @@ def main():
         if total_stones == 0:
             print("Компьютер выиграл! Удачи в следующий раз.")
             break
-
+print()
 main()
